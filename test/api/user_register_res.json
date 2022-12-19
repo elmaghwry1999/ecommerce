@@ -1,0 +1,9 @@
+{
+    "full_name": "test_full_name",
+    "email_or_phone": "test_email_or_phone",
+    "password": "test_password",
+    "_id": "test_id",
+    "createdAt": "2022-10-03T06:35:16.071Z",
+    "updatedAt": "2022-10-03T06:35:16.071Z",
+    "__v": 0
+}

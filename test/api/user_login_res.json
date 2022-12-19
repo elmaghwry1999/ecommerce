@@ -1,0 +1,9 @@
+{
+    "_id": "test_id",
+    "full_name": "test_full_name ",
+    "email_or_phone": "test_email_or_phone",
+    "createdAt": "test_createdAt",
+    "updatedAt": "test_updatedAt",
+    "__v": 0,
+    "accessToken": "test_accessToken"
+}

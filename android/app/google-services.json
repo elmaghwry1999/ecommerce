@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "343364227412",
+    "project_id": "ecommerce-dumbp",
+    "storage_bucket": "ecommerce-dumbp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343364227412:android:639481005aaa52aca7b8c1",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343364227412-iv0arikd949krm24m2flji2p41hhtndv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwVmUGu4Cx7QpzLhVUAyiTkXtGmcnZpIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343364227412-iv0arikd949krm24m2flji2p41hhtndv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
